@@ -1,4 +1,4 @@
-# ContinualAI Wiki: a collaborative wiki on Continual/Lifelong Machine Learning
+# GMML Wiki: a collaborative wiki on Gaze and Machine Learning
 <p align="center">
   <img src="https://github.com/ContinualAI/continual-learning-papers/blob/main/logo.png" alt="ContinualAI logo"/ width="300px" align="center">
 </p>
