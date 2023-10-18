@@ -8,7 +8,7 @@ We are always happy to add new members and get some help for improving our wiki 
 
 ### Principal Maintainer
 
-[Andrea Cossu](https://andreacossu.github.io/): _He is a PhD Student in Data Science at Scuola Normale Superiore and University of Pisa, working under the supervision of Davide Bacciu. He is a member of the Pervasive AI Lab at University of Pisa. His research is currently focused on the study of Continual Learning with applications to Recurrent Neural Networks and sequential data processing._
+[Dario Zanca](https://andreacossu.github.io/): _He is a PhD Student in Data Science at Scuola Normale Superiore and University of Pisa, working under the supervision of Davide Bacciu. He is a member of the Pervasive AI Lab at University of Pisa. His research is currently focused on the study of Continual Learning with applications to Recurrent Neural Networks and sequential data processing._
 
 ### _Other Contributors_
 
